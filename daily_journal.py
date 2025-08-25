@@ -2,6 +2,7 @@ import os
 import random
 import requests
 from datetime import datetime
+from zoneinfo import ZoneInfo   # <-- add this
 
 JOURNAL_DIR = "journal_entries"
 LOG_FILE = "DAILY_LOG.md"
@@ -16,6 +17,7 @@ quotes = [
 
 def get_weather():
     try:
+        # force Hyderabad weather
         response = requests.get("https://wttr.in/Hyderabad?format=3")
         return response.text.strip()
     except:
@@ -32,32 +34,29 @@ def add_entry():
     if not os.path.exists(JOURNAL_DIR):
         os.makedirs(JOURNAL_DIR)
 
-    # Date and timestamp
-    now = datetime.now()
-    today = now.strftime("%Y-%m-%d")
-    timestamp = now.strftime("%H:%M:%S")
-    filename = os.path.join(JOURNAL_DIR, f"{today}_{now.strftime('%H-%M-%S')}.txt")
+    # Use IST (Asia/Kolkata)
+    now_ist = datetime.now(ZoneInfo("Asia/Kolkata"))
+    today = now_ist.strftime("%Y-%m-%d")
+    timestamp = now_ist.strftime("%H:%M:%S")
+    filename = os.path.join(JOURNAL_DIR, f"{today}_{now_ist.strftime('%H-%M-%S')}.txt")
 
     entry = f"""
 📅 Date: {today}
-⏰ Time: {timestamp}
+⏰ Time: {timestamp} IST
 🌦 Weather: {get_weather()}
 📚 Word of the Day: {get_word_of_day()}
 💡 Quote: {random.choice(quotes)}
     """.strip()
 
-    # Save to individual file
     with open(filename, "w") as f:
         f.write(entry + "\n")
 
-    # Update DAILY_LOG.md
     with open(LOG_FILE, "w") as f:
-        f.write(f"# 📓 Daily Journal Log\n\n")
+        f.write("# 📓 Daily Journal Log\n\n")
         f.write(f"## Latest Entry\n\n{entry}\n")
-        f.write(f"\n👉 Check all entries in [journal_entries/](./journal_entries)\n")
+        f.write("\n👉 Check all entries in [journal_entries/](./journal_entries)\n")
 
     print(f"✅ Auto-entry saved: {filename}")
-
 
 if __name__ == "__main__":
     add_entry()
