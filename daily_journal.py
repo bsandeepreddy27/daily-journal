@@ -16,7 +16,7 @@ quotes = [
 
 def get_weather():
     try:
-        response = requests.get("https://wttr.in/?format=3")
+        response = requests.get("https://wttr.in/Hyderabad?format=3")
         return response.text.strip()
     except:
         return "Weather data unavailable"
