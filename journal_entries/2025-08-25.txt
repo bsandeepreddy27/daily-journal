@@ -1,10 +1,4 @@
-# 📓 Daily Journal Log
-
-## Latest Entry
-
 📅 Date: 2025-08-25
 🌦 Weather: not found: ⛅️  +32°C
 📚 Word of the Day: loveable
 💡 Quote: Experience is the name everyone gives to their mistakes.
-
-👉 Check all entries in [journal_entries/](./journal_entries)
