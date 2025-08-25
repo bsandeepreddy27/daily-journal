@@ -32,11 +32,15 @@ def add_entry():
     if not os.path.exists(JOURNAL_DIR):
         os.makedirs(JOURNAL_DIR)
 
-    today = datetime.now().strftime("%Y-%m-%d")
-    filename = os.path.join(JOURNAL_DIR, f"{today}.txt")
+    # Date and timestamp
+    now = datetime.now()
+    today = now.strftime("%Y-%m-%d")
+    timestamp = now.strftime("%H:%M:%S")
+    filename = os.path.join(JOURNAL_DIR, f"{today}_{now.strftime('%H-%M-%S')}.txt")
 
     entry = f"""
 📅 Date: {today}
+⏰ Time: {timestamp}
 🌦 Weather: {get_weather()}
 📚 Word of the Day: {get_word_of_day()}
 💡 Quote: {random.choice(quotes)}
@@ -52,7 +56,8 @@ def add_entry():
         f.write(f"## Latest Entry\n\n{entry}\n")
         f.write(f"\n👉 Check all entries in [journal_entries/](./journal_entries)\n")
 
-    print(f"✅ Auto-entry saved for {today}")
+    print(f"✅ Auto-entry saved: {filename}")
+
 
 if __name__ == "__main__":
     add_entry()
