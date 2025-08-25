@@ -1,11 +1,5 @@
-# 📓 Daily Journal Log
-
-## Latest Entry
-
 📅 Date: 2025-08-26
 ⏰ Time: 02:08:42 IST
 🌦 Weather: Hyderabad: ⛅️  +27°C
 📚 Word of the Day: inshore
 💡 Quote: Code is like humor. When you have to explain it, it’s bad.
-
-👉 Check all entries in [journal_entries/](./journal_entries)
