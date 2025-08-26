@@ -1,11 +1,5 @@
-# 📓 Daily Journal Log
-
-## Latest Entry
-
 📅 Date: 2025-08-27
 ⏰ Time: 00:16:58 IST
 🌦 Weather: Hyderabad: 🌦   +76°F
 📚 Word of the Day: prepubertal
 💡 Quote: Knowledge is power.
-
-👉 Check all entries in [journal_entries/](./journal_entries)
