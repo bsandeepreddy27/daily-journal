@@ -1,11 +1,5 @@
-# 📓 Daily Journal Log
-
-## Latest Entry
-
 📅 Date: 2025-08-26
 ⏰ Time: 13:06:51 IST
 🌦 Weather: Hyderabad: ⛅️  +72°F
 📚 Word of the Day: sewages
 💡 Quote: Code is like humor. When you have to explain it, it’s bad.
-
-👉 Check all entries in [journal_entries/](./journal_entries)
