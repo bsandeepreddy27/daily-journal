@@ -1,11 +1,5 @@
-# 📓 Daily Journal Log
-
-## Latest Entry
-
 📅 Date: 2025-08-26
 ⏰ Time: 09:43:33 IST
 🌦 Weather: Hyderabad: ⛅️  +72°F
 📚 Word of the Day: arbiter
 💡 Quote: Learning never exhausts the mind.
-
-👉 Check all entries in [journal_entries/](./journal_entries)
