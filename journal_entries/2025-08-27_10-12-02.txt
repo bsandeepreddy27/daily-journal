@@ -1,11 +1,5 @@
-# 📓 Daily Journal Log
-
-## Latest Entry
-
 📅 Date: 2025-08-27
 ⏰ Time: 10:12:02 IST
 🌦 Weather: Hyderabad: 🌧   +72°F
 📚 Word of the Day: infesters
 💡 Quote: First, solve the problem. Then, write the code.
-
-👉 Check all entries in [journal_entries/](./journal_entries)
