@@ -2,7 +2,11 @@ name: Daily Journal Commit
 
 on:
   schedule:
-    - cron: "*/30 * * * *"   # or your daily cron
+    # Run at 10:00 AM IST (04:30 UTC)
+    - cron: "30 4 * * *"
+    # Run at 10:00 PM IST (16:30 UTC)
+    - cron: "30 16 * * *"
+    #- cron: "*/30 * * * *"   # or your daily cron
   workflow_dispatch:
 
 permissions:
