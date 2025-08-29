@@ -1,11 +1,5 @@
-# 📓 Daily Journal Log
-
-## Latest Entry
-
 📅 Date: 2025-08-29
 ⏰ Time: 10:14:24 IST
 🌦 Weather: Hyderabad: 🌫  +74°F
 📚 Word of the Day: incipiently
 💡 Quote: Code is like humor. When you have to explain it, it’s bad.
-
-👉 Check all entries in [journal_entries/](./journal_entries)
