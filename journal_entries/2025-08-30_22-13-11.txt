@@ -1,11 +1,5 @@
-# 📓 Daily Journal Log
-
-## Latest Entry
-
 📅 Date: 2025-08-30
 ⏰ Time: 22:13:11 IST
 🌦 Weather: Hyderabad: ⛅️  +79°F
 📚 Word of the Day: painty
 💡 Quote: Code is like humor. When you have to explain it, it’s bad.
-
-👉 Check all entries in [journal_entries/](./journal_entries)
