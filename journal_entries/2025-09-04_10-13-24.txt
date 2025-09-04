@@ -1,11 +1,5 @@
-# 📓 Daily Journal Log
-
-## Latest Entry
-
 📅 Date: 2025-09-04
 ⏰ Time: 10:13:24 IST
 🌦 Weather: Hyderabad: 🌫  +24°C
 📚 Word of the Day: nonrecognitions
 💡 Quote: Experience is the name everyone gives to their mistakes.
-
-👉 Check all entries in [journal_entries/](./journal_entries)
