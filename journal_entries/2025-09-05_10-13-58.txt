@@ -1,11 +1,5 @@
-# 📓 Daily Journal Log
-
-## Latest Entry
-
 📅 Date: 2025-09-05
 ⏰ Time: 10:13:58 IST
 🌦 Weather: Hyderabad: ⛅️  +23°C
 📚 Word of the Day: votary
 💡 Quote: Knowledge is power.
-
-👉 Check all entries in [journal_entries/](./journal_entries)
