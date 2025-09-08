@@ -1,11 +1,5 @@
-# 📓 Daily Journal Log
-
-## Latest Entry
-
 📅 Date: 2025-09-08
 ⏰ Time: 10:15:01 IST
 🌦 Weather: Hyderabad: 🌫  +25°C
 📚 Word of the Day: cumulous
 💡 Quote: Knowledge is power.
-
-👉 Check all entries in [journal_entries/](./journal_entries)
