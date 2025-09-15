@@ -1,11 +1,5 @@
-# 📓 Daily Journal Log
-
-## Latest Entry
-
 📅 Date: 2025-09-15
 ⏰ Time: 22:16:24 IST
 🌦 Weather: Hyderabad: 🌫  +24°C
 📚 Word of the Day: pyxides
 💡 Quote: Code is like humor. When you have to explain it, it’s bad.
-
-👉 Check all entries in [journal_entries/](./journal_entries)
