@@ -1,11 +1,5 @@
-# 📓 Daily Journal Log
-
-## Latest Entry
-
 📅 Date: 2025-10-01
 ⏰ Time: 22:16:49 IST
 🌦 Weather: Hyderabad: 🌫  +27°C
 📚 Word of the Day: poussetted
 💡 Quote: First, solve the problem. Then, write the code.
-
-👉 Check all entries in [journal_entries/](./journal_entries)
