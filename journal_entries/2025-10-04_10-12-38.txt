@@ -1,11 +1,5 @@
-# 📓 Daily Journal Log
-
-## Latest Entry
-
 📅 Date: 2025-10-04
 ⏰ Time: 10:12:38 IST
 🌦 Weather: Hyderabad: ☀️   +23°C
 📚 Word of the Day: benthons
 💡 Quote: Experience is the name everyone gives to their mistakes.
-
-👉 Check all entries in [journal_entries/](./journal_entries)
