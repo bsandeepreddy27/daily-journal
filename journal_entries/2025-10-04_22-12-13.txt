@@ -1,11 +1,5 @@
-# 📓 Daily Journal Log
-
-## Latest Entry
-
 📅 Date: 2025-10-04
 ⏰ Time: 22:12:13 IST
 🌦 Weather: Hyderabad: ⛈   +26°C
 📚 Word of the Day: influenzas
 💡 Quote: First, solve the problem. Then, write the code.
-
-👉 Check all entries in [journal_entries/](./journal_entries)
