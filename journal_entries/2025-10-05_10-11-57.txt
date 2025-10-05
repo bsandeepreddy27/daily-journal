@@ -1,11 +1,5 @@
-# 📓 Daily Journal Log
-
-## Latest Entry
-
 📅 Date: 2025-10-05
 ⏰ Time: 10:11:57 IST
 🌦 Weather: Hyderabad: 🌫  +23°C
 📚 Word of the Day: cordelling
 💡 Quote: Knowledge is power.
-
-👉 Check all entries in [journal_entries/](./journal_entries)
