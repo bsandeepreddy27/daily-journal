@@ -1,11 +1,5 @@
-# 📓 Daily Journal Log
-
-## Latest Entry
-
 📅 Date: 2025-10-06
 ⏰ Time: 22:16:21 IST
 🌦 Weather: Hyderabad: ⛅️  +78°F
 📚 Word of the Day: fallowed
 💡 Quote: First, solve the problem. Then, write the code.
-
-👉 Check all entries in [journal_entries/](./journal_entries)
