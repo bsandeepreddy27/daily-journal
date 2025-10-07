@@ -1,11 +1,5 @@
-# 📓 Daily Journal Log
-
-## Latest Entry
-
 📅 Date: 2025-10-07
 ⏰ Time: 22:17:31 IST
 🌦 Weather: Hyderabad: 🌫  +77°F
 📚 Word of the Day: quintile
 💡 Quote: Code is like humor. When you have to explain it, it’s bad.
-
-👉 Check all entries in [journal_entries/](./journal_entries)
