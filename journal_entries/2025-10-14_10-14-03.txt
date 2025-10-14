@@ -1,11 +1,5 @@
-# 📓 Daily Journal Log
-
-## Latest Entry
-
 📅 Date: 2025-10-14
 ⏰ Time: 10:14:03 IST
 🌦 Weather: Hyderabad: 🌫  +25°C
 📚 Word of the Day: proximities
 💡 Quote: Learning never exhausts the mind.
-
-👉 Check all entries in [journal_entries/](./journal_entries)
