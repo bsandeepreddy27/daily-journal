@@ -1,11 +1,5 @@
-# 📓 Daily Journal Log
-
-## Latest Entry
-
 📅 Date: 2025-10-24
 ⏰ Time: 22:18:13 IST
 🌦 Weather: Hyderabad: 🌫  +23°C
 📚 Word of the Day: poisoner
 💡 Quote: Experience is the name everyone gives to their mistakes.
-
-👉 Check all entries in [journal_entries/](./journal_entries)
