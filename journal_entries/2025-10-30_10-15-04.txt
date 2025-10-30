@@ -1,11 +1,5 @@
-# 📓 Daily Journal Log
-
-## Latest Entry
-
 📅 Date: 2025-10-30
 ⏰ Time: 10:15:04 IST
 🌦 Weather: Hyderabad: 🌫  +76°F
 📚 Word of the Day: televising
 💡 Quote: Knowledge is power.
-
-👉 Check all entries in [journal_entries/](./journal_entries)
