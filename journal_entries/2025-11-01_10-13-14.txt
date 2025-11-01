@@ -1,11 +1,5 @@
-# 📓 Daily Journal Log
-
-## Latest Entry
-
 📅 Date: 2025-11-01
 ⏰ Time: 10:13:14 IST
 🌦 Weather: Hyderabad: 🌫  +81°F
 📚 Word of the Day: pittosporums
 💡 Quote: Learning never exhausts the mind.
-
-👉 Check all entries in [journal_entries/](./journal_entries)
