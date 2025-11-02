@@ -1,11 +1,5 @@
-# 📓 Daily Journal Log
-
-## Latest Entry
-
 📅 Date: 2025-11-02
 ⏰ Time: 10:14:27 IST
 🌦 Weather: Hyderabad: ⛅️  +26°C
 📚 Word of the Day: parch
 💡 Quote: Learning never exhausts the mind.
-
-👉 Check all entries in [journal_entries/](./journal_entries)
