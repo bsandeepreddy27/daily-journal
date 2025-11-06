@@ -1,11 +1,5 @@
-# 📓 Daily Journal Log
-
-## Latest Entry
-
 📅 Date: 2025-11-06
 ⏰ Time: 22:22:33 IST
 🌦 Weather: Hyderabad: 🌫  +24°C
 📚 Word of the Day: inalterableness
 💡 Quote: Experience is the name everyone gives to their mistakes.
-
-👉 Check all entries in [journal_entries/](./journal_entries)
