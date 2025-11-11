@@ -1,11 +1,5 @@
-# 📓 Daily Journal Log
-
-## Latest Entry
-
 📅 Date: 2025-11-11
 ⏰ Time: 22:19:41 IST
 🌦 Weather: Hyderabad: ☀️   +69°F
 📚 Word of the Day: inconnus
 💡 Quote: Experience is the name everyone gives to their mistakes.
-
-👉 Check all entries in [journal_entries/](./journal_entries)
