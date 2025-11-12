@@ -1,11 +1,5 @@
-# 📓 Daily Journal Log
-
-## Latest Entry
-
 📅 Date: 2025-11-12
 ⏰ Time: 22:21:40 IST
 🌦 Weather: Hyderabad: ☀️   +20°C
 📚 Word of the Day: instauration
 💡 Quote: Learning never exhausts the mind.
-
-👉 Check all entries in [journal_entries/](./journal_entries)
