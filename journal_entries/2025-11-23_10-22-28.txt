@@ -1,11 +1,5 @@
-# 📓 Daily Journal Log
-
-## Latest Entry
-
 📅 Date: 2025-11-23
 ⏰ Time: 10:22:28 IST
 🌦 Weather: Hyderabad: 🌫  +78°F
 📚 Word of the Day: taxers
 💡 Quote: Code is like humor. When you have to explain it, it’s bad.
-
-👉 Check all entries in [journal_entries/](./journal_entries)
