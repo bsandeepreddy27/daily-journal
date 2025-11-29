@@ -1,11 +1,5 @@
-# 📓 Daily Journal Log
-
-## Latest Entry
-
 📅 Date: 2025-11-29
 ⏰ Time: 22:16:03 IST
 🌦 Weather: Hyderabad: 🌫  +20°C
 📚 Word of the Day: inspiration
 💡 Quote: Experience is the name everyone gives to their mistakes.
-
-👉 Check all entries in [journal_entries/](./journal_entries)
