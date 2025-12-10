@@ -1,11 +1,5 @@
-# 📓 Daily Journal Log
-
-## Latest Entry
-
 📅 Date: 2025-12-10
 ⏰ Time: 22:23:09 IST
 🌦 Weather: Hyderabad: 🌫  +19°C
 📚 Word of the Day: shandygaffs
 💡 Quote: Learning never exhausts the mind.
-
-👉 Check all entries in [journal_entries/](./journal_entries)
