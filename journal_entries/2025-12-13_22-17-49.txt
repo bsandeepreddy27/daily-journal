@@ -1,11 +1,5 @@
-# 📓 Daily Journal Log
-
-## Latest Entry
-
 📅 Date: 2025-12-13
 ⏰ Time: 22:17:49 IST
 🌦 Weather: Hyderabad: 🌫  +18°C
 📚 Word of the Day: coopery
 💡 Quote: Code is like humor. When you have to explain it, it’s bad.
-
-👉 Check all entries in [journal_entries/](./journal_entries)
