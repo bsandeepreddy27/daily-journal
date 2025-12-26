@@ -1,11 +1,5 @@
-# 📓 Daily Journal Log
-
-## Latest Entry
-
 📅 Date: 2025-12-26
 ⏰ Time: 22:18:10 IST
 🌦 Weather: Hyderabad: 🌫  +18°C
 📚 Word of the Day: tessiture
 💡 Quote: Learning never exhausts the mind.
-
-👉 Check all entries in [journal_entries/](./journal_entries)
