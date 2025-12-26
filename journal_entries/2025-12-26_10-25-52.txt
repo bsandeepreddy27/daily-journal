@@ -1,11 +1,5 @@
-# 📓 Daily Journal Log
-
-## Latest Entry
-
 📅 Date: 2025-12-26
 ⏰ Time: 10:25:52 IST
 🌦 Weather: Hyderabad: 🌫  +72°F
 📚 Word of the Day: shahdom
 💡 Quote: Knowledge is power.
-
-👉 Check all entries in [journal_entries/](./journal_entries)
