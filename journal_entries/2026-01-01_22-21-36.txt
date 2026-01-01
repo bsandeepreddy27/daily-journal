@@ -1,11 +1,5 @@
-# 📓 Daily Journal Log
-
-## Latest Entry
-
 📅 Date: 2026-01-01
 ⏰ Time: 22:21:36 IST
 🌦 Weather: Hyderabad: 🌫  +22°C
 📚 Word of the Day: clangoured
 💡 Quote: Knowledge is power.
-
-👉 Check all entries in [journal_entries/](./journal_entries)
