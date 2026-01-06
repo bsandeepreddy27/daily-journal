@@ -1,11 +1,5 @@
-# 📓 Daily Journal Log
-
-## Latest Entry
-
 📅 Date: 2026-01-06
 ⏰ Time: 10:28:52 IST
 🌦 Weather: Hyderabad: 🌫  +22°C
 📚 Word of the Day: grappled
 💡 Quote: Knowledge is power.
-
-👉 Check all entries in [journal_entries/](./journal_entries)
