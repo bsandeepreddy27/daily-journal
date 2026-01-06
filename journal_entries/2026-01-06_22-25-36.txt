@@ -1,11 +1,5 @@
-# 📓 Daily Journal Log
-
-## Latest Entry
-
 📅 Date: 2026-01-06
 ⏰ Time: 22:25:36 IST
 🌦 Weather: Hyderabad: 🌫  +17°C
 📚 Word of the Day: beamily
 💡 Quote: Knowledge is power.
-
-👉 Check all entries in [journal_entries/](./journal_entries)
