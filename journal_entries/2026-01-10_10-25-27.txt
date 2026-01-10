@@ -1,11 +1,5 @@
-# 📓 Daily Journal Log
-
-## Latest Entry
-
 📅 Date: 2026-01-10
 ⏰ Time: 10:25:27 IST
 🌦 Weather: Hyderabad: 🌫  +22°C
 📚 Word of the Day: domicile
 💡 Quote: Learning never exhausts the mind.
-
-👉 Check all entries in [journal_entries/](./journal_entries)
