@@ -1,11 +1,5 @@
-# 📓 Daily Journal Log
-
-## Latest Entry
-
 📅 Date: 2026-01-12
 ⏰ Time: 22:25:18 IST
 🌦 Weather: Hyderabad: 🌫  +23°C
 📚 Word of the Day: erraticisms
 💡 Quote: First, solve the problem. Then, write the code.
-
-👉 Check all entries in [journal_entries/](./journal_entries)
