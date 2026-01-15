@@ -1,11 +1,5 @@
-# 📓 Daily Journal Log
-
-## Latest Entry
-
 📅 Date: 2026-01-15
 ⏰ Time: 10:29:33 IST
 🌦 Weather: Hyderabad: 🌫  +77°F
 📚 Word of the Day: slubbed
 💡 Quote: First, solve the problem. Then, write the code.
-
-👉 Check all entries in [journal_entries/](./journal_entries)
