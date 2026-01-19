@@ -1,11 +1,5 @@
-# 📓 Daily Journal Log
-
-## Latest Entry
-
 📅 Date: 2026-01-19
 ⏰ Time: 10:36:33 IST
 🌦 Weather: Hyderabad: 🌫  +24°C
 📚 Word of the Day: corporately
 💡 Quote: First, solve the problem. Then, write the code.
-
-👉 Check all entries in [journal_entries/](./journal_entries)
