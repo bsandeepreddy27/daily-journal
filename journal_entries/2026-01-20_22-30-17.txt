@@ -1,11 +1,5 @@
-# 📓 Daily Journal Log
-
-## Latest Entry
-
 📅 Date: 2026-01-20
 ⏰ Time: 22:30:17 IST
 🌦 Weather: Weather data unavailable
 📚 Word of the Day: vedalias
 💡 Quote: Experience is the name everyone gives to their mistakes.
-
-👉 Check all entries in [journal_entries/](./journal_entries)
