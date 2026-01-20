@@ -1,7 +1,3 @@
-# 📓 Daily Journal Log
-
-## Latest Entry
-
 📅 Date: 2026-01-20
 ⏰ Time: 10:33:03 IST
 🌦 Weather: Sorry, we are running out of queries to the weather service at the moment.
@@ -11,5 +7,3 @@ You can follow https://x.com/igor_chubin for the updates.
 ======================================================================================
 📚 Word of the Day: swigger
 💡 Quote: Experience is the name everyone gives to their mistakes.
-
-👉 Check all entries in [journal_entries/](./journal_entries)
