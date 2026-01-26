@@ -1,11 +1,5 @@
-# 📓 Daily Journal Log
-
-## Latest Entry
-
 📅 Date: 2026-01-26
 ⏰ Time: 10:38:32 IST
 🌦 Weather: Hyderabad: 🌫  +22°C
 📚 Word of the Day: depilators
 💡 Quote: Code is like humor. When you have to explain it, it’s bad.
-
-👉 Check all entries in [journal_entries/](./journal_entries)
