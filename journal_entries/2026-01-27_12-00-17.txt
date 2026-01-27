@@ -1,11 +1,5 @@
-# 📓 Daily Journal Log
-
-## Latest Entry
-
 📅 Date: 2026-01-27
 ⏰ Time: 12:00:17 IST
 🌦 Weather: Weather data unavailable
 📚 Word of the Day: snivelling
 💡 Quote: Learning never exhausts the mind.
-
-👉 Check all entries in [journal_entries/](./journal_entries)
